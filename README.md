@@ -1,2 +1,2 @@
-# leetcode-string
-Leetcode string questions
+# leetcode
+This repository contains my leetcode questions
